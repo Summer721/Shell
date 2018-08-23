@@ -1,5 +1,4 @@
 #!/bin/bash
-#create by ray on 2016-04-26
 VIRTUAL_ROUTE=0
 DEFAULT_INIT=0
 INSTALL_SOFT=0
